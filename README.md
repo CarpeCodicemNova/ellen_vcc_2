@@ -1,6 +1,9 @@
 # ellen_vcc_2
 My second assignment for VCC class.
 
+This repository contains my second assignment for a web development course.  
+The project demonstrates basic Git workflow, issue tracking, pull requests, and documentation using GitHub.
+
 ## Assignment #2
 
 - **Due Date:** Monday March 2nd 2026 👍 (before class begins)  
