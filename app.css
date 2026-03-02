@@ -1,0 +1,60 @@
+/* App-specific styling */
+
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+  background-color: #eef2f5;
+  color: #333;
+}
+
+header {
+  background-color: #1f3a5f;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #2d4f73;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 25px auto;
+  background-color: #ffffff;
+  padding: 25px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  border-bottom: 2px solid #d6dde5;
+  padding-bottom: 6px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #1f3a5f;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px;
+  margin-top: 30px;
+}
